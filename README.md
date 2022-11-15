@@ -1,7 +1,7 @@
 # Line-Art-Designer
 Line Art Designer is an interactive art design program. It allows for the user to view and modify various elements of a moving, linear art design in a GUI window that is launched when the program is run. 
 
-![alt text](https://github.com/jack-lincoln/Line-Art-Designer/blob/main/Line-Art-Designer%20GUI-Screenshot.jpg)
+![alt text](https://github.com/jack-lincoln/Line-Art-Designer/blob/main/Samples-Images/Line-Art-Designer-GUI-Screenshot.jpg)
 
 The controls are simple and easy to navigate. The design may be moved forwards or backwards. Let either one run too long, and the design will escape beyond the window! Fortunately, there is a "Reset" button that allows for all settings to be returned to their default state, restoring the design to its starting position. 
 
@@ -29,9 +29,8 @@ Sliders:
 
 Here are some examples of images created:
 
-![alt text](https://github.com/jack-lincoln/Line-Art-Designer/blob/main/Line-Art-Designer%20Sample-01.png)
-![alt text](https://github.com/jack-lincoln/Line-Art-Designer/blob/main/Line-Art-Designer%20Sample-02.png)
-![alt text](https://github.com/jack-lincoln/Line-Art-Designer/blob/main/Line-Art-Designer%20Sample-03.png)
-![alt text](https://github.com/jack-lincoln/Line-Art-Designer/blob/main/Line-Art-Designer%20Sample-04.png)
-![alt text](https://github.com/jack-lincoln/Line-Art-Designer/blob/main/Line-Art-Designer%20Sample-05.png)
-![alt text](https://github.com/jack-lincoln/Line-Art-Designer/blob/main/Line-Art-Designer%20Sample-06.png)
+![alt text](https://github.com/jack-lincoln/Line-Art-Designer/blob/main/Samples-Images/Line-Art-Designer-Sample-01.png)
+![alt text](https://github.com/jack-lincoln/Line-Art-Designer/blob/main/Samples-Images/Line-Art-Designer-Sample-02.png)
+![alt text](https://github.com/jack-lincoln/Line-Art-Designer/blob/main/Samples-Images/Line-Art-Designer-Sample-03.png)
+![alt text](https://github.com/jack-lincoln/Line-Art-Designer/blob/main/Samples-Images/Line-Art-Designer-Sample-04.png)
+![alt text](https://github.com/jack-lincoln/Line-Art-Designer/blob/main/Samples-Images/Line-Art-Designer-Sample-05.png)
