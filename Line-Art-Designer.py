@@ -1,7 +1,7 @@
 #! python3
-# Line-Art-Designer.py - A program that allows the user to view and modify various elements of a moving art design
-# in a GUI window. The design may be played either forwards, backwards, or paused at any moment.
-# Images may be saved as PNG files as well.
+# Line-Art-Designer.py - Line Art Designer is an interactive art design program.
+# It allows for the user to view and modify various elements of a moving,
+# linear art design in a GUI window that is launched when the program is run.
 
 import sys
 from PyQt5.QtWidgets import *
